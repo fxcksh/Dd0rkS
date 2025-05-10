@@ -30,9 +30,11 @@
 
 <hr/>
 
+
+
 <h2>Demo :clapper:</h2>
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/c0676899-2b81-4f42-ab5e-0e60d19987b8" alt="Demo"/>
+  <img src="https://github.com/user-attachments/assets/b6dfa2cd-b044-4995-8bde-b9d796218586" alt="Demo"/>
 </p>
 
 <details>

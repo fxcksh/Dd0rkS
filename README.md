@@ -6,6 +6,9 @@
   <strong><em>A tool providing both an Interactive Terminal UI and a Minimalistic CLI for highly effective search directly from the command line.</em></strong>
 </h4>
 
+
+
+
 <hr/>
 
 <p>
@@ -34,7 +37,7 @@
 
 <h2>Demo :clapper:</h2>
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/b6dfa2cd-b044-4995-8bde-b9d796218586" alt="Demo"/>
+  <img src="https://github.com/user-attachments/assets/2f130895-6a99-4a44-829b-a13671429233" alt="Demo"/>
 </p>
 
 <details>
